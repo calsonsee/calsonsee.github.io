@@ -8,7 +8,7 @@ title: "Data Visualization"
 
 During my time at Temasek Polytechnic, I noticed that preparing financial statements often involved hours of manual data entry. Now, as a Fintech student, I have learned how automation can drastically reduce this time.
 
-This graph visualizes a simulation I conducted to compare the time taken to process \<strong\>1,000 financial records\</strong\> manually versus using a Python/R script.
+This graph visualizes a simulation I conducted to compare the time taken to process **1,000 financial records** manually versus using a Python/R script.
 
 ```{r}
 #| echo: false
