@@ -1,9 +1,19 @@
 ---
-title: "Reflection on the use of GenAI"
+title: "Reflection on GenAI"
 ---
 
-In this assessment, I used Generative AI tools such as ChatGPT to help me understand the tasks and instructions more clearly.
+## 🤖 My Experience with Generative AI
 
-I chose this tool because it provides simple explanations and step-by-step guidance, which was useful when working with unfamiliar tools like Quarto. It helped me organise my content and complete the assessment more efficiently.
+::: {style="text-align: justify"}
+In this assessment, I utilized Generative AI tools to assist me not just with understanding the instructions, but also with the **technical implementation** of the website using Quarto and RStudio.
 
-Overall, GenAI was beneficial in reducing confusion and improving my learning experience. In the future, I believe such tools can continue to support my studies by assisting with learning and problem-solving, while still requiring my own understanding and effort.
+### 🛠️ How I Used It
+
+I specifically used AI to help me debug technical errors, such as: 1. **Troubleshooting R Code:** When my data visualization graph failed to render due to missing packages (`ggplot2`), the AI helped me identify the error and provided the correct installation commands. 2. **Formatting & Layout:** I used AI to generate the code for the **2-column layout** on my Hobbies page, allowing me to present my images side-by-side cleanly.
+
+### 💡 Personal Reflection
+
+I chose to use this tool because it acts like a "24/7 Tutor." It didn't just give me the answers; it explained *why* my code was breaking (e.g., missing library dependencies). This helped me learn the logic behind Quarto rather than just copying blindly.
+
+Overall, GenAI significantly improved my efficiency. However, I learned that human oversight is still crucial—I still had to verify the output, choose the right images, and personalize the content to match my own story.
+:::

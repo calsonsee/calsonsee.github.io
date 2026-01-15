@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -39,13 +40,13 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c14e348cb500d1da5822e4db70ad514b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-64bfb135e24a3ca385be8e3ddbd63b18.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -71,11 +72,52 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Calson’s Portfolio</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./fyp.html"> 
+<span class="menu-text">FYP Project</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./dataviz.html"> 
+<span class="menu-text">Data Visualization</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./hobbies.html"> 
+<span class="menu-text">Hobbies &amp; Interests</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./reflection.html"> 
+<span class="menu-text">GenAI Reflection</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -87,7 +129,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column" style="width:40%;">
-<p><img src="profile.jpg" class="rounded img-fluid" style="width:100.0%"></p>
+<div class="profile-pic">
+<p><img src="profile.jpg" style="width:100%; border-radius:15px;"></p>
+</div>
 <section id="calson-see-jia-jun" class="level3">
 <h3 class="anchored" data-anchor-id="calson-see-jia-jun">Calson See Jia Jun</h3>
 <p><em>Year 1 Fintech Student</em> <span class="badge bg-primary">SIT | Singapore Institute of Technology</span></p>
@@ -97,13 +141,18 @@ ul.task-list li input[type="checkbox"] {
 </div><div class="column" style="width:50%;">
 <section id="hello" class="level1">
 
-<p>Welcome to my personal portfolio.</p>
+<p><strong>Welcome to my personal portfolio! 🚀✨</strong></p>
+<div style="text-align: justify">
 <p>I am a Year 1 student studying <strong>Fintech</strong> at SIT. My academic background is in <strong>Accountancy and Finance from Temasek Polytechnic</strong>.</p>
 <p>Transitioning from a pure finance background with no prior tech knowledge has been a rewarding challenge. I am passionate about bridging the gap between traditional accounting and modern financial technology!</p>
+</div>
 <hr>
 <section id="explore-my-work" class="level3">
 <h3 class="anchored" data-anchor-id="explore-my-work">📂 Explore My Work</h3>
-<p><a href="final_year_project.qmd" class="btn btn-outline-info w-100 mb-2">📁 FYP Project</a> <a href="data_visualization.qmd" class="btn btn-outline-info w-100 mb-2">📊 Data Visualization</a> <a href="./hobbies.html" class="btn btn-outline-info w-100 mb-2">🎨 Hobbies &amp; Interests</a> <a href="./reflection.html" class="btn btn-outline-info w-100 mb-2">📝 GenAI Reflection</a></p>
+<p><a href="./fyp.html" class="btn btn-outline-info btn-lg w-100 mb-3">📁 FYP Project</a></p>
+<p><a href="./dataviz.html" class="btn btn-outline-info btn-lg w-100 mb-3">📊 Data Visualization</a></p>
+<p><a href="./hobbies.html" class="btn btn-outline-info btn-lg w-100 mb-3">🎨 Hobbies &amp; Interests</a></p>
+<p><a href="./reflection.html" class="btn btn-outline-info btn-lg w-100 mb-3">📝 GenAI Reflection</a></p>
 </section>
 </section>
 </div>

@@ -1,13 +1,26 @@
 ---
-title: "Hobbies"
+title: "Hobbies & Interests"
 ---
 
-## My Hobbies
+## 🌟 Beyond the Classroom
+In my free time, I enjoy activities that help me relax and maintain a healthy work-life balance.
 
-In my free time, I enjoy engaging in activities that help me relax and maintain a healthy balance between my studies and personal life.
+::: {layout-ncol=2}
 
-One of my hobbies is playing video games, which helps me unwind and improves my problem-solving and strategic thinking skills. I also enjoy watching movies and television shows as a way to relax and explore different stories and perspectives.
+::: {.card}
+### 🎮 Gaming
+![](dota2.jpg)
 
-In addition, I enjoy travelling and exploring new places whenever I have the opportunity. Travelling allows me to experience different cultures, environments, and ways of life, which helps broaden my perspective beyond academics.
+**Dota 2 & Strategy**
+I am an avid player of **Dota 2**. It helps me unwind while sharpening my strategic thinking. Coordinating with my team to secure a win is a rewarding challenge that keeps my mind active.
+:::
 
-These hobbies help me manage stress, stay motivated, and maintain a healthy lifestyle during my academic journey.
+::: {.card}
+### ✈️ Travel
+![](mountfuji.jpg)
+
+**Exploring Japan**
+I love travelling to **Japan**; seeing Mount Fuji was a highlight. Exploring the unique blend of traditional culture and modern technology broadens my perspective and reminds me to appreciate different ways of life.
+:::
+
+:::

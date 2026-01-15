@@ -3,7 +3,20 @@ project:
 
 website:
   title: "Calson's Portfolio"
-  
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fyp.qmd
+        text: FYP Project
+      - href: dataviz.qmd
+        text: Data Visualization
+      - href: hobbies.qmd
+        text: Hobbies & Interests
+      - href: reflection.qmd
+        text: GenAI Reflection
+
 format:
   html:
     theme: slate

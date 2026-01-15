@@ -1,0 +1,56 @@
+---
+title: "Data Visualization"
+---
+
+## 📊 The Impact of Automation in Finance
+
+### 📖 The Story Behind the Data
+
+During my time at Temasek Polytechnic, I noticed that preparing financial statements often involved hours of manual data entry. Now, as a Fintech student, I have learned how automation can drastically reduce this time.
+
+This graph visualizes a simulation I conducted to compare the time taken to process \<strong\>1,000 financial records\</strong\> manually versus using a Python/R script.
+
+```{r}
+#| echo: false
+#| warning: false
+library(ggplot2)
+
+# 1. Define the Data
+data <- data.frame(
+  Method = c("Manual Entry", "Fintech Automation"),
+  Time_Minutes = c(300, 5) # 5 hours vs 5 minutes
+)
+
+# 2. Create the Graph
+ggplot(data, aes(x = Method, y = Time_Minutes, fill = Method)) +
+  geom_bar(stat = "identity", width = 0.5) +
+  geom_text(aes(label = paste(Time_Minutes, "mins")), vjust = -0.5, color = "white", fontface = "bold") +
+  labs(
+    title = "Efficiency Comparison: Processing 1,000 Records",
+    y = "Time Taken (Minutes)",
+    x = ""
+  ) +
+  scale_fill_manual(values = c("#3498db", "#e74c3c")) + 
+  theme_minimal() +
+  theme(
+    # This makes the background match your website exactly
+    plot.background = element_rect(fill = "#272b30", color = NA),
+    panel.background = element_rect(fill = "#272b30", color = NA),
+    
+    # This makes all text white
+    text = element_text(color = "white"),
+    axis.text = element_text(color = "white"),
+    plot.title = element_text(color = "white", face = "bold", size = 14),
+    
+    # This cleans up the grid lines
+    panel.grid.major = element_line(color = "grey40"),
+    panel.grid.minor = element_blank(),
+    legend.position = "none"
+  )
+```
+
+### 💡 Rationale
+
+**What is visualized?** I visualized the quantitative difference in time efficiency (measured in minutes) between traditional manual methods and modern automated methods.
+
+**Why this visualization?** I chose a **Bar Chart** because the dramatic difference in height between the two bars (300 mins vs 5 mins) effectively highlights the **magnitude of efficiency** gained through Fintech. This visual evidence supports my decision to transition from accountancy to a tech-focused career.

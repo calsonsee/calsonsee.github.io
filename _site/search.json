@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Hello! 👋",
     "section": "",
-    "text": "Calson See Jia Jun\nYear 1 Fintech Student SIT | Singapore Institute of Technology\n\n\n\n\n\n\nWelcome to my personal portfolio.\nI am a Year 1 student studying Fintech at SIT. My academic background is in Accountancy and Finance from Temasek Polytechnic.\nTransitioning from a pure finance background with no prior tech knowledge has been a rewarding challenge. I am passionate about bridging the gap between traditional accounting and modern financial technology!\n\n\n📂 Explore My Work\n📁 FYP Project 📊 Data Visualization 🎨 Hobbies & Interests 📝 GenAI Reflection"
+    "text": "Calson See Jia Jun\nYear 1 Fintech Student SIT | Singapore Institute of Technology\n\n\n\n\n\n\nWelcome to my personal portfolio! 🚀✨\n\nI am a Year 1 student studying Fintech at SIT. My academic background is in Accountancy and Finance from Temasek Polytechnic.\nTransitioning from a pure finance background with no prior tech knowledge has been a rewarding challenge. I am passionate about bridging the gap between traditional accounting and modern financial technology!\n\n\n\n📂 Explore My Work\n📁 FYP Project\n📊 Data Visualization\n🎨 Hobbies & Interests\n📝 GenAI Reflection"
   },
   {
     "objectID": "reflection.html",
     "href": "reflection.html",
-    "title": "Reflection on the use of GenAI",
+    "title": "Reflection on GenAI",
     "section": "",
-    "text": "In this assessment, I used Generative AI tools such as ChatGPT to help me understand the tasks and instructions more clearly.\nI chose this tool because it provides simple explanations and step-by-step guidance, which was useful when working with unfamiliar tools like Quarto. It helped me organise my content and complete the assessment more efficiently.\nOverall, GenAI was beneficial in reducing confusion and improving my learning experience. In the future, I believe such tools can continue to support my studies by assisting with learning and problem-solving, while still requiring my own understanding and effort."
+    "text": "In this assessment, I utilized Generative AI tools to assist me not just with understanding the instructions, but also with the technical implementation of the website using Quarto and RStudio.\n\n\nI specifically used AI to help me debug technical errors, such as: 1. Troubleshooting R Code: When my data visualization graph failed to render due to missing packages (ggplot2), the AI helped me identify the error and provided the correct installation commands. 2. Formatting & Layout: I used AI to generate the code for the 2-column layout on my Hobbies page, allowing me to present my images side-by-side cleanly.\n\n\n\nI chose to use this tool because it acts like a “24/7 Tutor.” It didn’t just give me the answers; it explained why my code was breaking (e.g., missing library dependencies). This helped me learn the logic behind Quarto rather than just copying blindly.\nOverall, GenAI significantly improved my efficiency. However, I learned that human oversight is still crucial—I still had to verify the output, choose the right images, and personalize the content to match my own story."
   },
   {
     "objectID": "fyp.html",
     "href": "fyp.html",
-    "title": "Projects",
+    "title": "Final Year Project (Temasek Poly)",
     "section": "",
-    "text": "Before entering SIT, I was studying accountancy and finance in Temasek Polytechnic. I do not have any coding experience but I am really interested in coding."
+    "text": "Diploma in Accountancy & Finance\nFor my final year project at Temasek Polytechnic, I conducted a comprehensive financial analysis of a publicly listed company in the retail sector. The goal was to assess the company’s financial health, liquidity, and profitability over a 5-year period.\n\n\n\n\n\n\n\n\nNoteThen: Manual Process\n\n\n\nBack in Poly, my toolkit was limited to: * Microsoft Excel: VLOOKUPs and Pivot Tables. * MYOB: Standard accounting software. * Method: Manual data entry and reconciliation.\n\n\n\n\n\n\n\n\nTipNow: The Fintech Shift\n\n\n\nAt SIT, I am learning to automate these exact tasks using Python and R, allowing for real-time analysis rather than static reports.\n\n\n\n\n\nThis project taught me the fundamentals of reading financial statements, but it also highlighted the inefficiencies of manual accounting. This frustration is exactly what led me to pursue Fintech—to solve these problems with code."
   },
   {
     "objectID": "fyp.html#my-projects",
@@ -58,9 +58,9 @@
   {
     "objectID": "hobbies.html",
     "href": "hobbies.html",
-    "title": "Hobbies",
+    "title": "Hobbies & Interests",
     "section": "",
-    "text": "In my free time, I enjoy engaging in activities that help me relax and maintain a healthy balance between my studies and personal life.\nOne of my hobbies is playing video games, which helps me unwind and improves my problem-solving and strategic thinking skills. I also enjoy watching movies and television shows as a way to relax and explore different stories and perspectives.\nIn addition, I enjoy travelling and exploring new places whenever I have the opportunity. Travelling allows me to experience different cultures, environments, and ways of life, which helps broaden my perspective beyond academics.\nThese hobbies help me manage stress, stay motivated, and maintain a healthy lifestyle during my academic journey."
+    "text": "In my free time, I enjoy activities that help me relax and maintain a healthy work-life balance.\n\n\n\n\n\nDota 2 & Strategy I am an avid player of Dota 2. It helps me unwind while sharpening my strategic thinking and teamwork skills. Understanding the meta and coordinating with teammates to secure a win is a rewarding challenge.\n\n\n\n\nExploring Japan I love travelling to Japan and seeing Mount Fuji was a highlight. Exploring the unique blend of traditional culture and modern technology broadens my perspective. It reminds me to appreciate different ways of life."
   },
   {
     "objectID": "hobbies.html#my-hobbies",
@@ -74,6 +74,55 @@
     "href": "index.html#hello-welcome-to-my-portfolio",
     "title": "Calson See Jia Jun",
     "section": "",
-    "text": "I am a Year 1 Fintech student at the Singapore Institute of Technology (SIT).\nMy journey is a bit unique—I graduated from Accountancy and Finance at Temasek Polytechnic. While I spent years mastering the world of balance sheets and financial markets, I had zero coding or tech knowledge before entering SIT.\nI decided to pivot into Fintech because I’m fascinated by how technology is disrupting traditional finance. I am currently “learning to code” from scratch and loving the challenge of bridging the gap between finance and technology!\n\n\n\n📁 View My FYP Project 📊 Data Visualization 🎨 Hobbies & Interests 📝 My GenAI Reflection"
+    "text": "I am a Year 1 Fintech student at the Singapore Institute of Technology (SIT).\nMy journey into Fintech is driven by my background in Accountancy and Finance from Temasek Polytechnic. Transitioning into the tech space with no prior coding knowledge has been a rewarding challenge, and I am excited to bridge the gap between finance and technology.\n\n\n\nClick the links below to see my progress:\n\n📁 FYP Project\n📊 Data Visualization\n🎨 Hobbies & Interests\n📝 GenAI Reflection"
+  },
+  {
+    "objectID": "fyp.html#personal-finance-tracking-and-budget-analysis-project",
+    "href": "fyp.html#personal-finance-tracking-and-budget-analysis-project",
+    "title": "Final Year Project",
+    "section": "",
+    "text": "Before entering SIT, I studied Accountancy and Finance at Temasek Polytechnic. As part of my learning experience, I worked on a project related to personal finance tracking and budget analysis.\nThe project focused on recording daily expenses, categorising spending such as food, transport, and entertainment, and analysing spending patterns over time. The goal was to improve financial awareness and support better budgeting decisions.\nThrough this project, I gained a better understanding of how financial data can be organised and analysed to support decision-making. This experience also helped prepare me for learning new digital and analytical tools at SIT."
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my time at Temasek Polytechnic, I noticed that preparing financial statements often involved hours of manual data entry. Now, as a Fintech student, I have learned how automation can drastically reduce this time.\nThis graph visualizes a simulation I conducted to compare the time taken to process &lt;strong&gt;1,000 financial records&lt;/strong&gt; manually versus using a Python/R script.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is visualized? I visualized the quantitative difference in time efficiency (measured in minutes) between traditional manual methods and modern automated methods.\nWhy this visualization? I chose a Bar Chart because the dramatic difference in height between the two bars (300 mins vs 5 mins) effectively highlights the magnitude of efficiency gained through Fintech. This visual evidence supports my decision to transition from accountancy to a tech-focused career."
+  },
+  {
+    "objectID": "dataviz.html#where-does-your-money-go",
+    "href": "dataviz.html#where-does-your-money-go",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "The visualization below shows a breakdown of personal monthly spending across different budget categories.\n\n\nThis chart visualizes how personal monthly expenses are allocated across categories such as housing, food, transportation, savings, entertainment, and miscellaneous spending.\n\n\n\nFrom the chart, housing takes up the largest portion of the budget at 30%. Food and savings each account for 20%, while transportation makes up 15%. Entertainment and miscellaneous expenses represent smaller portions of the overall spending.\n\n\n\nA pie (donut) chart was used because it effectively shows how each category contributes to the total budget, making it easy to compare proportions at a glance."
+  },
+  {
+    "objectID": "dataviz.html#the-impact-of-automation-in-finance",
+    "href": "dataviz.html#the-impact-of-automation-in-finance",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my time at Temasek Polytechnic, I noticed that preparing financial statements often involved hours of manual data entry. Now, as a Fintech student, I have learned how automation can drastically reduce this time.\nThis graph visualizes a simulation I conducted to compare the time taken to process &lt;strong&gt;1,000 financial records&lt;/strong&gt; manually versus using a Python/R script.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is visualized? I visualized the quantitative difference in time efficiency (measured in minutes) between traditional manual methods and modern automated methods.\nWhy this visualization? I chose a Bar Chart because the dramatic difference in height between the two bars (300 mins vs 5 mins) effectively highlights the magnitude of efficiency gained through Fintech. This visual evidence supports my decision to transition from accountancy to a tech-focused career."
+  },
+  {
+    "objectID": "fyp.html#corporate-financial-analysis",
+    "href": "fyp.html#corporate-financial-analysis",
+    "title": "Final Year Project (Temasek Poly)",
+    "section": "",
+    "text": "Diploma in Accountancy & Finance\nFor my final year project at Temasek Polytechnic, I conducted a comprehensive financial analysis of a publicly listed company in the retail sector. The goal was to assess the company’s financial health, liquidity, and profitability over a 5-year period.\n\n\n\n\n\n\n\n\nNoteThen: Manual Process\n\n\n\nBack in Poly, my toolkit was limited to: * Microsoft Excel: VLOOKUPs and Pivot Tables. * MYOB: Standard accounting software. * Method: Manual data entry and reconciliation.\n\n\n\n\n\n\n\n\nTipNow: The Fintech Shift\n\n\n\nAt SIT, I am learning to automate these exact tasks using Python and R, allowing for real-time analysis rather than static reports.\n\n\n\n\n\nThis project taught me the fundamentals of reading financial statements, but it also highlighted the inefficiencies of manual accounting. This frustration is exactly what led me to pursue Fintech—to solve these problems with code."
+  },
+  {
+    "objectID": "hobbies.html#beyond-the-classroom",
+    "href": "hobbies.html#beyond-the-classroom",
+    "title": "Hobbies & Interests",
+    "section": "",
+    "text": "In my free time, I enjoy activities that help me relax and maintain a healthy work-life balance.\n\n\n\n\n\nDota 2 & Strategy I am an avid player of Dota 2. It helps me unwind while sharpening my strategic thinking and teamwork skills. Understanding the meta and coordinating with teammates to secure a win is a rewarding challenge.\n\n\n\n\nExploring Japan I love travelling to Japan and seeing Mount Fuji was a highlight. Exploring the unique blend of traditional culture and modern technology broadens my perspective. It reminds me to appreciate different ways of life."
+  },
+  {
+    "objectID": "reflection.html#my-experience-with-generative-ai",
+    "href": "reflection.html#my-experience-with-generative-ai",
+    "title": "Reflection on GenAI",
+    "section": "",
+    "text": "In this assessment, I utilized Generative AI tools to assist me not just with understanding the instructions, but also with the technical implementation of the website using Quarto and RStudio.\n\n\nI specifically used AI to help me debug technical errors, such as: 1. Troubleshooting R Code: When my data visualization graph failed to render due to missing packages (ggplot2), the AI helped me identify the error and provided the correct installation commands. 2. Formatting & Layout: I used AI to generate the code for the 2-column layout on my Hobbies page, allowing me to present my images side-by-side cleanly.\n\n\n\nI chose to use this tool because it acts like a “24/7 Tutor.” It didn’t just give me the answers; it explained why my code was breaking (e.g., missing library dependencies). This helped me learn the logic behind Quarto rather than just copying blindly.\nOverall, GenAI significantly improved my efficiency. However, I learned that human oversight is still crucial—I still had to verify the output, choose the right images, and personalize the content to match my own story."
   }
 ]
