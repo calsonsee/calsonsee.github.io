@@ -1,0 +1,21 @@
+---
+title: "Data Visualization"
+---
+
+## Where Does Your Money Go?
+
+The visualization below shows a breakdown of personal monthly spending across different budget categories.
+
+![](images/spending-chart.png)
+
+### What is being visualized?
+
+This chart visualizes how personal monthly expenses are allocated across categories such as housing, food, transportation, savings, entertainment, and miscellaneous spending.
+
+### What does the visualization show?
+
+From the chart, housing takes up the largest portion of the budget at 30%. Food and savings each account for 20%, while transportation makes up 15%. Entertainment and miscellaneous expenses represent smaller portions of the overall spending.
+
+### Why this type of visualization?
+
+A pie (donut) chart was used because it effectively shows how each category contributes to the total budget, making it easy to compare proportions at a glance.

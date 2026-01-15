@@ -1,0 +1,9 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+In this assessment, I used Generative AI tools such as ChatGPT to help me understand the tasks and instructions more clearly.
+
+I chose this tool because it provides simple explanations and step-by-step guidance, which was useful when working with unfamiliar tools like Quarto. It helped me organise my content and complete the assessment more efficiently.
+
+Overall, GenAI was beneficial in reducing confusion and improving my learning experience. In the future, I believe such tools can continue to support my studies by assisting with learning and problem-solving, while still requiring my own understanding and effort.
