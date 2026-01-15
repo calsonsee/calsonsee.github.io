@@ -2,30 +2,31 @@
 title: "Final Year Project (Temasek Poly)"
 ---
 
-## 🏦 Corporate Financial Analysis
+## Corporate Financial Analysis
 
 **Diploma in Accountancy & Finance**
 
 For my final year project at Temasek Polytechnic, I conducted a comprehensive financial analysis of a publicly listed company in the retail sector. The goal was to assess the company's financial health, liquidity, and profitability over a 5-year period.
 
-### 🛠️ The Tech Stack (Then vs Now)
+### The Tech Stack (Then vs Now)
 
-::: callout-note
-## 🕰️ Then: Manual Process
-
+::: {.callout-note}
+## Then: Manual Process
 Back in Poly, my toolkit was limited to traditional methods:
 
--   **Microsoft Excel:** Heavily relied on VLOOKUPs and Pivot Tables.
--   **MYOB:** Used standard legacy accounting software.
--   **Method:** Time-consuming manual data entry and reconciliation.
+* **Microsoft Excel:** Heavily relied on VLOOKUPs and Pivot Tables.
+* **MYOB:** Used standard legacy accounting software.
+* **Method:** Time-consuming manual data entry and reconciliation.
 :::
 
-::: callout-tip
-## 🚀 Now: The Fintech Shift
-
+::: {.callout-tip}
+## Now: The Fintech Shift
 At SIT, I am learning to automate these exact tasks:
 
--   **Python & R:** Writing scripts to process data instantly.
--   **Automation:** Replacing manual entry with code.
--   **Real-time Analysis:** Moving from static reports to dynamic dashboards.
+* **Python & R:** Writing scripts to process data instantly.
+* **Automation:** Replacing manual entry with code.
+* **Real-time Analysis:** Moving from static reports to dynamic dashboards.
 :::
+
+### Key Takeaways
+This project taught me the fundamentals of reading financial statements, but it also highlighted the inefficiencies of manual accounting. This frustration is exactly what led me to pursue **Fintech**—to solve these problems with code.
