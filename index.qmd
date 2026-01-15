@@ -2,9 +2,9 @@
 title: "AAI1001 Assignment 1"
 ---
 
-## Hello 👋
-
 My name is Calson See Jia Jun. I am a Year 1 student at Singapore Institute of Technology (SIT), currently studying in Fintech.
 
 
-
+[FYP](final year project.qmd)
+[DATA](data visualization.qmd)
+[HOBBIES](hobbies.qmd)
