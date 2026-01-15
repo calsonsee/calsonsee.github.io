@@ -1,10 +1,35 @@
 ---
-title: "AAI1001 Assignment 1"
+title: ""
 ---
 
-My name is Calson See Jia Jun. I am a Year 1 student at Singapore Institute of Technology (SIT), currently studying in Fintech.
+::: {.columns}
 
+::: {.column width="40%"}
+![](profile.jpg){width="100%" .rounded}
 
-[FYP](final year project.qmd)
-[DATA](data visualization.qmd)
-[HOBBIES](hobbies.qmd)
+### Calson See Jia Jun
+*Year 1 Fintech Student*
+[SIT | Singapore Institute of Technology]{.badge .bg-primary}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+# Hello! 👋
+Welcome to my personal portfolio. 
+
+I am a Year 1 student studying **Fintech** at SIT. My academic background is in **Accountancy and Finance from Temasek Polytechnic**. 
+
+Transitioning from a pure finance background with no prior tech knowledge has been a rewarding challenge. I am passionate about bridging the gap between traditional accounting and modern financial technology!
+
+---
+
+### 📂 Explore My Work
+[📁 FYP Project](final_year_project.qmd){.btn .btn-outline-info .w-100 .mb-2}
+[📊 Data Visualization](data_visualization.qmd){.btn .btn-outline-info .w-100 .mb-2}
+[🎨 Hobbies & Interests](hobbies.qmd){.btn .btn-outline-info .w-100 .mb-2}
+[📝 GenAI Reflection](reflection.qmd){.btn .btn-outline-info .w-100 .mb-2}
+:::
+
+:::

@@ -1,6 +1,0 @@
----
-title: "Projects"
----
-
-## My Projects
-Before entering SIT, I was studying accountancy and finance in Temasek Polytechnic. I do not have any coding experience but I am really interested in coding.
